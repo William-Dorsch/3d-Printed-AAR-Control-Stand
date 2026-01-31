@@ -5,6 +5,7 @@ NOTE:  THIS IS A WIP - I DONT GUARANTEE ANY / ALL OF THIS WILL WORK FOR YOU<br/>
 
 Held in this collectioin are the parts neccesary to create a functional, scaled down replica of an EMD style AAR control stand.  Whilst most of this is 3d printed, some parts are required:<br/>
 -Arduino (leonardo for keyboard input support, uno for everything else is fine, although perhaps a mega if you want the light dials to work because an uno/leonardo doesnt have enough analog pins)
+- Breadboard, jumper wires, other miscellanious wires to connect things (i use 30 gauge, anything smaller tha 18 could probably work) <br/>
 -50 #4 1/2" screws (i dont know the quantity, but to be safe you can buy three boxes of 25 from Ace for $7.50<br/>
 -20 25mm m5 bolts + nuts<br/>
 -assorted springs (such as those in this [listing](https://www.amazon.com/Dianrui-Compression-Assortment-Mechanical-K-P-051-300/dp/B0BVTDP29W/ref=sr_1_3?crid=1Z8HTDOO6KJDT&dib=eyJ2IjoiMSJ9.oHy4p09mCgR5R9tJeMvafSmaimV27RqPbNc8a76NEi9gId0GbQ0-mFv7xkux6p_HldYLD7ykHocZwnZYJc69XgbsGTPURyM9-Ia0_W9cIk8DCBFFz235mHCBQnvv8EpMLB1yg8k2vrT-adIumr2WFQLodXUnIkaN8t_pfCaZOCTMjIxltTjN41FEv2KlKmHo0jsWvMKlNdu-i2ThP3O9crXg-MtC3w-oXwB9DgcnpTM.B08F1PWAYexsd8RsDaBqsziQ9km8X-P6sNOm_ZDaXP4&dib_tag=se&keywords=springs&qid=1766536435&sprefix=spring%2Caps%2C118&sr=8-3&th=1) <br/>

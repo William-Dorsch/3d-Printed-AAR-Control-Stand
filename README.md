@@ -2,6 +2,7 @@
 This is a collection of 3d print files, parts, and code to make a functional train controller for PC games.  This specific set of files is to build an older EMD style AAR stand, such as that of a gp38 or sd40, which uses the EMD master controller and 26C brakes.
 
 NOTE:  THIS IS A WIP - I DONT GUARANTEE ANY / ALL OF THIS WILL WORK FOR YOU<br/>
+BUILD GUIDE: https://docs.google.com/document/d/17Of1b5zJ0VlCkcmphFihxYkFXJUDyWbVaLRFJ8o8Zy4/edit?usp=sharing<br/>
 
 Held in this collectioin are the parts neccesary to create a functional, scaled down replica of an EMD style AAR control stand.  Whilst most of this is 3d printed, some parts are required:<br/>
 -Arduino (leonardo for keyboard input support, uno for everything else is fine, although perhaps a mega if you want the light dials to work because an uno/leonardo doesnt have enough analog pins)

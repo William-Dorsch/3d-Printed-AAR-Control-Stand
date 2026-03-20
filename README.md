@@ -15,4 +15,4 @@ Held in this collectioin are the parts neccesary to create a functional, scaled 
 -6x [microswitch](https://www.amazon.com/DAOKI-Switch-Momentary-Button-Arduino/dp/B07YKH3TDR/ref=sr_1_3?crid=PWXSFDIKEVVG&dib=eyJ2IjoiMSJ9.bRa5D9LX9UsC69cqWaWvB9HbVHCgEEH2LfRBINV1ThBKDDwPGtKNLMb0Ui6-alwVc1m_pie7H6nNI8X2Rj2cYluInTV6wBYzRSrNM7l6vCbGoa1UyqPoMhND0i9KRx1pSV-Pw-YgcgzCVUAXtq6uD87_D3DxC3QbR1hocp3WL1gdHKj1yGPH45NgSBnGp0EeWG-Pton91tP0JicX-u4KHq-Vu6k6R7e6QQt-QgLptSQ.UjsTXjruLFXPutlRtRzlq0WUhQaQwVBNg7hfSDYJ4Qw&dib_tag=se&keywords=microswitch&qid=1768745610&sprefix=microswitch%2Caps%2C158&sr=8-3&th=1)<br/>
 -a soldering iron<br/>
 
-[video assembly guide coming soon]<br/>
+[video assembly guide](https://youtu.be/kaDJuDNgWLc) coming soon <br/>
